@@ -1,0 +1,3577 @@
+fileFormatVersion: 2
+guid: 5b3fa344707038648a3d088923df988c
+timeCreated: 1480219626
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SonicObjects_0
+    21300002: SonicObjects_1
+    21300004: SonicObjects_2
+    21300006: SonicObjects_3
+    21300008: SonicObjects_4
+    21300010: SonicObjects_5
+    21300012: SonicObjects_6
+    21300014: SonicObjects_7
+    21300016: SonicObjects_8
+    21300018: SonicObjects_9
+    21300020: SonicObjects_10
+    21300022: SonicObjects_11
+    21300024: SonicObjects_12
+    21300026: SonicObjects_13
+    21300028: SonicObjects_14
+    21300030: SonicObjects_15
+    21300032: SonicObjects_16
+    21300034: SonicObjects_17
+    21300036: SonicObjects_18
+    21300038: SonicObjects_19
+    21300040: SonicObjects_20
+    21300042: SonicObjects_21
+    21300044: SonicObjects_22
+    21300046: SonicObjects_23
+    21300048: SonicObjects_24
+    21300050: SonicObjects_25
+    21300052: SonicObjects_26
+    21300054: SonicObjects_27
+    21300056: SonicObjects_28
+    21300058: SonicObjects_29
+    21300060: SonicObjects_30
+    21300062: SonicObjects_31
+    21300064: SonicObjects_32
+    21300066: SonicObjects_33
+    21300068: SonicObjects_34
+    21300070: SonicObjects_35
+    21300072: SonicObjects_36
+    21300074: SonicObjects_37
+    21300076: SonicObjects_38
+    21300078: SonicObjects_39
+    21300080: SonicObjects_40
+    21300082: SonicObjects_41
+    21300084: SonicObjects_42
+    21300086: SonicObjects_43
+    21300088: SonicObjects_44
+    21300090: SonicObjects_45
+    21300092: SonicObjects_46
+    21300094: SonicObjects_47
+    21300096: SonicObjects_48
+    21300098: SonicObjects_49
+    21300100: SonicObjects_50
+    21300102: SonicObjects_51
+    21300104: SonicObjects_52
+    21300106: SonicObjects_53
+    21300108: SonicObjects_54
+    21300110: SonicObjects_55
+    21300112: SonicObjects_56
+    21300114: SonicObjects_57
+    21300116: SonicObjects_58
+    21300118: SonicObjects_59
+    21300120: SonicObjects_60
+    21300122: SonicObjects_61
+    21300124: SonicObjects_62
+    21300126: SonicObjects_63
+    21300128: SonicObjects_64
+    21300130: SonicObjects_65
+    21300132: SonicObjects_66
+    21300134: SonicObjects_67
+    21300136: SonicObjects_68
+    21300138: SonicObjects_69
+    21300140: SonicObjects_70
+    21300142: SonicObjects_71
+    21300144: SonicObjects_72
+    21300146: SonicObjects_73
+    21300148: SonicObjects_74
+    21300150: SonicObjects_75
+    21300152: SonicObjects_76
+    21300154: SonicObjects_77
+    21300156: SonicObjects_78
+    21300158: SonicObjects_79
+    21300160: SonicObjects_80
+    21300162: SonicObjects_81
+    21300164: SonicObjects_82
+    21300166: SonicObjects_83
+    21300168: SonicObjects_84
+    21300170: SonicObjects_85
+    21300172: SonicObjects_86
+    21300174: SonicObjects_87
+    21300176: SonicObjects_88
+    21300178: SonicObjects_89
+    21300180: SonicObjects_90
+    21300182: SonicObjects_91
+    21300184: SonicObjects_92
+    21300186: SonicObjects_93
+    21300188: SonicObjects_94
+    21300190: SonicObjects_95
+    21300192: SonicObjects_96
+    21300194: SonicObjects_97
+    21300196: SonicObjects_98
+    21300198: SonicObjects_99
+    21300200: SonicObjects_100
+    21300202: SonicObjects_101
+    21300204: SonicObjects_102
+    21300206: SonicObjects_103
+    21300208: SonicObjects_104
+    21300210: SonicObjects_105
+    21300212: SonicObjects_106
+    21300214: SonicObjects_107
+    21300216: SonicObjects_108
+    21300218: SonicObjects_109
+    21300220: SonicObjects_110
+    21300222: SonicObjects_111
+    21300224: SonicObjects_112
+    21300226: SonicObjects_113
+    21300228: SonicObjects_114
+    21300230: SonicObjects_115
+    21300232: SonicObjects_116
+    21300234: SonicObjects_117
+    21300236: SonicObjects_118
+    21300238: SonicObjects_119
+    21300240: SonicObjects_120
+    21300242: SonicObjects_121
+    21300244: SonicObjects_122
+    21300246: SonicObjects_123
+    21300248: SonicObjects_124
+    21300250: SonicObjects_125
+    21300252: SonicObjects_126
+    21300254: SonicObjects_127
+    21300256: SonicObjects_128
+    21300258: SonicObjects_129
+    21300260: SonicObjects_130
+    21300262: SonicObjects_131
+    21300264: SonicObjects_132
+    21300266: SonicObjects_133
+    21300268: SonicObjects_134
+    21300270: SonicObjects_135
+    21300272: SonicObjects_136
+    21300274: SonicObjects_137
+    21300276: SonicObjects_138
+    21300278: SonicObjects_139
+    21300280: SonicObjects_140
+    21300282: SonicObjects_141
+    21300284: SonicObjects_142
+    21300286: SonicObjects_143
+    21300288: SonicObjects_144
+    21300290: SonicObjects_145
+    21300292: SonicObjects_146
+    21300294: SonicObjects_147
+    21300296: SonicObjects_148
+    21300298: SonicObjects_149
+    21300300: SonicObjects_150
+    21300302: SonicObjects_151
+    21300304: SonicObjects_152
+    21300306: SonicObjects_153
+    21300308: SonicObjects_154
+    21300310: SonicObjects_155
+    21300312: SonicObjects_156
+    21300314: SonicObjects_157
+    21300316: SonicObjects_158
+    21300318: SonicObjects_159
+    21300320: SonicObjects_160
+    21300322: SonicObjects_161
+    21300324: SonicObjects_162
+    21300326: SonicObjects_163
+    21300328: SonicObjects_164
+    21300330: SonicObjects_165
+    21300332: SonicObjects_166
+    21300334: SonicObjects_167
+    21300336: SonicObjects_168
+    21300338: SonicObjects_169
+    21300340: SonicObjects_170
+    21300342: SonicObjects_171
+    21300344: SonicObjects_172
+    21300346: SonicObjects_173
+    21300348: SonicObjects_174
+    21300350: SonicObjects_175
+    21300352: SonicObjects_176
+    21300354: SonicObjects_177
+    21300356: SonicObjects_178
+    21300358: SonicObjects_179
+    21300360: SonicObjects_180
+    21300362: SonicObjects_181
+    21300364: SonicObjects_182
+    21300366: SonicObjects_183
+    21300368: SonicObjects_184
+    21300370: SonicObjects_185
+    21300372: SonicObjects_186
+    21300374: SonicObjects_187
+    21300376: SonicObjects_188
+    21300378: SonicObjects_189
+    21300380: SonicObjects_190
+    21300382: SonicObjects_191
+    21300384: SonicObjects_192
+    21300386: SonicObjects_193
+    21300388: SonicObjects_194
+    21300390: SonicObjects_195
+    21300392: SonicObjects_196
+    21300394: SonicObjects_197
+    21300396: SonicObjects_198
+    21300398: SonicObjects_199
+    21300400: SonicObjects_200
+    21300402: SonicObjects_201
+    21300404: SonicObjects_202
+    21300406: SonicObjects_203
+    21300408: SonicObjects_204
+    21300410: SonicObjects_205
+    21300412: SonicObjects_206
+    21300414: SonicObjects_207
+    21300416: SonicObjects_208
+    21300418: SonicObjects_209
+    21300420: SonicObjects_210
+    21300422: SonicObjects_211
+    21300424: SonicObjects_212
+    21300426: SonicObjects_213
+    21300428: SonicObjects_214
+    21300430: SonicObjects_215
+    21300432: SonicObjects_216
+    21300434: SonicObjects_217
+    21300436: SonicObjects_218
+    21300438: SonicObjects_219
+    21300440: SonicObjects_220
+    21300442: SonicObjects_221
+    21300444: SonicObjects_222
+    21300446: SonicObjects_223
+    21300448: SonicObjects_224
+    21300450: SonicObjects_225
+    21300452: SonicObjects_226
+    21300454: SonicObjects_227
+    21300456: SonicObjects_228
+    21300458: SonicObjects_229
+    21300460: SonicObjects_230
+    21300462: SonicObjects_231
+    21300464: SonicObjects_232
+    21300466: SonicObjects_233
+    21300468: SonicObjects_234
+    21300470: SonicObjects_235
+    21300472: SonicObjects_236
+    21300474: SonicObjects_237
+    21300476: SonicObjects_238
+    21300478: SonicObjects_239
+    21300480: SonicObjects_240
+    21300482: SonicObjects_241
+    21300484: SonicObjects_242
+    21300486: SonicObjects_243
+    21300488: SonicObjects_244
+    21300490: SonicObjects_245
+    21300492: SonicObjects_246
+    21300494: SonicObjects_247
+    21300496: SonicObjects_248
+    21300498: SonicObjects_249
+    21300500: SonicObjects_250
+    21300502: SonicObjects_251
+    21300504: SonicObjects_252
+    21300506: SonicObjects_253
+    21300508: SonicObjects_254
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SonicObjects_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1737
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1737
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1737
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1737
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1629
+        width: 60
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_5
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1671
+        width: 32
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_6
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1691
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_7
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1689
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_8
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1689
+        width: 24
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1651
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1685
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1638
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_12
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1551
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_13
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1616
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_14
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1610
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_15
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1623
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_16
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1610
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_17
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1615
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1560
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1563
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1563
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_21
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1563
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1563
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_23
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1587
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_24
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1575
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_25
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1579
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_26
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1563
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_27
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1571
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_28
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1563
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1539
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_30
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1523
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_31
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1477
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_32
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1478
+        width: 64
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_33
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1490
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_34
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1472
+        width: 64
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_35
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1473
+        width: 7
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1505
+        width: 64
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_37
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1478
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_38
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1438
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_39
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1446
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_40
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1446
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_41
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1401
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_42
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1400
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_43
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1410
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_44
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1406
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_45
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1406
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_46
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1406
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_47
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_48
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1380
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_49
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1380
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_50
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1362
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_51
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1324
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1304
+        width: 224
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_53
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1315
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_54
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1257
+        width: 160
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_55
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1246
+        width: 128
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_56
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1211
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_57
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1202
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_58
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1202
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_59
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1202
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_60
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1202
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_61
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1125
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_62
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1125
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_63
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1125
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_64
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1043
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_65
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1024
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_66
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1029
+        width: 24
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_67
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1014
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_68
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 984
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_69
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1028
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_70
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 963
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_71
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 979
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_72
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 979
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_73
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 982
+        width: 96
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_74
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 944
+        width: 96
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_75
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 954
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_76
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 882
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_77
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 899
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_78
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 923
+        width: 64
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_79
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 876
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_80
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 877
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_81
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 878
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_82
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 876
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_83
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 850
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_84
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 869
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_85
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 842
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_86
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 826
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_87
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 842
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_88
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 826
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_89
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 805
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_90
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 804
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_91
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 826
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_92
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 777
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_93
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 701
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_94
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 784
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_95
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 784
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_96
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 784
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_97
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 784
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_98
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 797
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_99
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 797
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_100
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 742
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_101
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 742
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_102
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 742
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_103
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 742
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_104
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 727
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_105
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 706
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_106
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 751
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_107
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 704
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 1.0093818, y: 0.05428738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_108
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 696
+        width: 36
+        height: 35
+      alignment: 9
+      pivot: {x: 1.0014224, y: -0.015752302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_110
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 704
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_111
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 699
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_113
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 655
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_114
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 715
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_115
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 653
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 653
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_118
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 653
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_119
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 653
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_121
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 667
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_122
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 670
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_123
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 463
+        width: 64
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_124
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 613
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_125
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 612
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_126
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 596
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_127
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 604
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_128
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 550
+        width: 32
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_129
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 602
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_130
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 566
+        width: 96
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_131
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 510
+        width: 160
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_132
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 576
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_133
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 515
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_134
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 517
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_135
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 519
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_136
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 460
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_137
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 428
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_138
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 428
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_139
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 486
+        width: 62
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_140
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 317
+        width: 16
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_141
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 414
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_142
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 439
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_143
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 418
+        width: 58
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_144
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 334
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_145
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 394
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_146
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 373
+        width: 128
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_147
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 390
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_148
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 374
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_149
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 335
+        width: 16
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_150
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 374
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_151
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 366
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_152
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 358
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_153
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 265
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_154
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 265
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_155
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 265
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_156
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 347
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_157
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 237
+        width: 32
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_158
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 255
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_159
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 255
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_160
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 201
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_161
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 153
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_162
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 202
+        width: 56
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_163
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 173
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_164
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 181
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_165
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 181
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_166
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 181
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_167
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 181
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_168
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 131
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_169
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 131
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_170
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 131
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_171
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 127
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_172
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 131
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_173
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 131
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_174
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 131
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_175
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 130
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_176
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 131
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_177
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 131
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_178
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 131
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_179
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 131
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_180
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 131
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_181
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 131
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_182
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 131
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_183
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 131
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_184
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 131
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_185
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 136
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_186
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 136
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_187
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 136
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_188
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 136
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_189
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 136
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_190
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 136
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_191
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 136
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_192
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 113
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_193
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 113
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_194
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 113
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_195
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 109
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_196
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 113
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_197
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 113
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_198
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 113
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_199
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 109
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_200
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 113
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_201
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 109
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_202
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 113
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_203
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 113
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_204
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 113
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_205
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 113
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_206
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 113
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_207
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 109
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_208
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 95
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_209
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 95
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_210
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 95
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_211
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 95
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_212
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 95
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_213
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 95
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_214
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 95
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_215
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 95
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_216
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 91
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_217
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 91
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_218
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_219
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 95
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_220
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 95
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_221
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 91
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_222
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 95
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_223
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_224
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 95
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_225
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 95
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_226
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 77
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_227
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 77
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_228
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 73
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_229
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 76
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_230
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 76
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_231
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 77
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_232
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 77
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_233
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 77
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_234
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 77
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_235
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 77
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_236
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 77
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_237
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 77
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_238
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 73
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_239
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 77
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_240
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 77
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_241
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 77
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_242
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 77
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_243
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 77
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_244
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 59
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_245
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 59
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_246
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 59
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_247
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 59
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_248
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 59
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_249
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 59
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_250
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 58
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_251
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 59
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_252
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 59
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_253
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 59
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SonicObjects_254
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 59
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
